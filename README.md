@@ -1,6 +1,6 @@
 # 5-axis-3D-printer
 I am a master student from Germany working on 5 axis 3D printing in my thesis.
-Therefore we have an optimized Prusa i3 MK3 Printer in our 3D lab. This one has an moveable panel to print with 5 axis.  
+Therefore we have an optimized a 3D printer in our 3D printing lab. This one has an moveable panel to print with 5 axis.  
 Our problem is the software, so there is no slicer software which can automatically generate G codes (simultaneous code) for our request.
 
 I am searching for developers which can help me creating an slicer for this 5 axis 3D printing request.

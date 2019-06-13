@@ -5,6 +5,7 @@ Our problem is the software, so there is no slicer software which can automatica
 
 I am searching for developers which can help me creating an slicer for this 5 axis 3D printing request.
 In our 3D printing lab we have the opportunity to test and verify possible improvements.
+Also we want to publish a construction manual to rebuild the optimized printer I mentioned.
 
 Therefore I hope to arouse a great deal of interest for such kind of project.
 If there are questions or comments please feel free to contact me (scha1014@hs-karlsruhe.de)
